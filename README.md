@@ -1,2 +1,3 @@
 # first_project
-Start Learning About git and github
+Start Learning About Git and GitHub
+Author Ashish Vish
